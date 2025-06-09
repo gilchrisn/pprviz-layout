@@ -8,7 +8,7 @@ import (
 	"os/exec"
 	"path/filepath"
 	"time"
-	"./graphprocessor"
+	"github.com/gilchrisn/pprviz-layout/graphprocessor"
 )
 
 func main() {

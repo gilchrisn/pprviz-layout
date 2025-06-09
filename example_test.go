@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strconv"
 	"time"
-	"./graphprocessor"
+	"github.com/gilchrisn/pprviz-layout/graphprocessor"
 )
 
 func main() {

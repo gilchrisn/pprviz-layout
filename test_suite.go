@@ -13,7 +13,7 @@ import (
 	"strings"
 	"testing"
 	"time"
-	"./graphprocessor"
+	"github.com/gilchrisn/pprviz-layout/graphprocessor"
 )
 
 // TestResult tracks test outcomes

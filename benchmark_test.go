@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"sort"
 	"time"
-	"./graphprocessor"
+	"github.com/gilchrisn/pprviz-layout/graphprocessor"
 )
 
 // BenchmarkSuite handles performance and correctness benchmarks
